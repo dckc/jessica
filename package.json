@@ -14,7 +14,8 @@
     "@michaelfig/slog": "0.0.1",
     "@types/agoric__harden": "file:unpublished/types-agoric__harden-1.0.0.tgz",
     "@types/agoric__jessie": "file:unpublished/types-agoric__jessie-1.0.0.tgz",
-    "@types/michaelfig__slog": "file:unpublished/types-michaelfig__slog-1.0.0.tgz"
+    "@types/michaelfig__slog": "file:unpublished/types-michaelfig__slog-1.0.0.tgz",
+    "esm": "^3.2.25"
   },
   "devDependencies": {
     "tslint": "^5.13.0",
